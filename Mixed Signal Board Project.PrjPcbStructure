@@ -1,0 +1,11 @@
+Record=TopLevelDocument|FileName=ADC chip.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=ADC chip.SchDoc|FileName=CH340C(UART TO USB.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=ADC chip.SchDoc|FileName=DAC and MIC.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=ADC chip.SchDoc|FileName=Ethernet PHY.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ADC chip.SchDoc|FileName=Motor driver Schematic.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ADC chip.SchDoc|FileName=Motor driver-2.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=ADC chip.SchDoc|FileName=Power Budget.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ADC chip.SchDoc|FileName=Power Input and Regulators.SchDoc|SheetNumber=11
+Record=NoMainPathDocument|SourceDocument=ADC chip.SchDoc|FileName=Schematic Blocks.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ADC chip.SchDoc|FileName=STM32F103 Debugger.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=ADC chip.SchDoc|FileName=STM32F407 Controller.SchDoc|SheetNumber=9
